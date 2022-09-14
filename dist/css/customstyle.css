@@ -1,0 +1,26 @@
+
+  body{
+
+    background-image: url("../../styles/img/cr7.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+
+    ul li a{
+      display:block;
+      text-decoration: none;
+      color: orange;
+
+
+    }
+    ul li a:hover{
+      background-color: maroon;
+      color:white;
+
+    }
+
+
+    ul li : hover ul li{
+      display : block;
+
+    }

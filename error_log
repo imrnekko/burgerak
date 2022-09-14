@@ -1,0 +1,77 @@
+[19-Jan-2021 14:33:05 Asia/Kuala_Lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u674073926/domains/burgerak.online/public_html/neworder.php on line 21
+[19-Jan-2021 06:33:34 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/u674073926/domains/burgerak.online/public_html/fpdf.php:1017) in /home/u674073926/domains/burgerak.online/public_html/fpdf.php:271
+Stack trace:
+#0 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/u674073926/domains/burgerak.online/public_html/outputPDF.php(205): FPDF->Output()
+#3 {main}
+  thrown in /home/u674073926/domains/burgerak.online/public_html/fpdf.php on line 271
+[19-Jan-2021 06:36:39 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/u674073926/domains/burgerak.online/public_html/fpdf.php:1017) in /home/u674073926/domains/burgerak.online/public_html/fpdf.php:271
+Stack trace:
+#0 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/u674073926/domains/burgerak.online/public_html/outputPDF.php(205): FPDF->Output()
+#3 {main}
+  thrown in /home/u674073926/domains/burgerak.online/public_html/fpdf.php on line 271
+[19-Jan-2021 06:36:53 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/u674073926/domains/burgerak.online/public_html/fpdf.php:1017) in /home/u674073926/domains/burgerak.online/public_html/fpdf.php:271
+Stack trace:
+#0 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/u674073926/domains/burgerak.online/public_html/outputPDF.php(205): FPDF->Output()
+#3 {main}
+  thrown in /home/u674073926/domains/burgerak.online/public_html/fpdf.php on line 271
+[19-Jan-2021 06:38:27 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/u674073926/domains/burgerak.online/public_html/fpdf.php:1017) in /home/u674073926/domains/burgerak.online/public_html/fpdf.php:271
+Stack trace:
+#0 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/u674073926/domains/burgerak.online/public_html/outputPDF.php(205): FPDF->Output()
+#3 {main}
+  thrown in /home/u674073926/domains/burgerak.online/public_html/fpdf.php on line 271
+[19-Jan-2021 14:45:53 Asia/Kuala_Lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u674073926/domains/burgerak.online/public_html/neworder.php on line 21
+[19-Jan-2021 06:46:50 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/u674073926/domains/burgerak.online/public_html/fpdf.php:1017) in /home/u674073926/domains/burgerak.online/public_html/fpdf.php:271
+Stack trace:
+#0 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/u674073926/domains/burgerak.online/public_html/outputPDF.php(205): FPDF->Output()
+#3 {main}
+  thrown in /home/u674073926/domains/burgerak.online/public_html/fpdf.php on line 271
+[19-Jan-2021 08:01:42 UTC] PHP Notice:  Undefined variable: found in /home/u674073926/domains/burgerak.online/public_html/newmenu.php on line 45
+[19-Jan-2021 16:18:57 Asia/Kuala_Lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u674073926/domains/burgerak.online/public_html/neworder.php on line 21
+[19-Jan-2021 08:21:51 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/u674073926/domains/burgerak.online/public_html/fpdf.php:1017) in /home/u674073926/domains/burgerak.online/public_html/fpdf.php:271
+Stack trace:
+#0 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/u674073926/domains/burgerak.online/public_html/outputPDF.php(205): FPDF->Output()
+#3 {main}
+  thrown in /home/u674073926/domains/burgerak.online/public_html/fpdf.php on line 271
+[19-Jan-2021 09:58:53 UTC] PHP Notice:  Undefined index: userlogged in /home/u674073926/domains/burgerak.online/public_html/menu.php on line 7
+[19-Jan-2021 09:58:54 UTC] PHP Notice:  Undefined index: userlogged in /home/u674073926/domains/burgerak.online/public_html/menu.php on line 487
+[19-Jan-2021 13:42:13 UTC] PHP Notice:  Undefined index: userlogged in /home/u674073926/domains/burgerak.online/public_html/menu.php on line 7
+[19-Jan-2021 13:42:13 UTC] PHP Notice:  Undefined index: userlogged in /home/u674073926/domains/burgerak.online/public_html/menu.php on line 490
+[19-Jan-2021 13:52:47 UTC] PHP Notice:  Undefined index: subtotalprice in /home/u674073926/domains/burgerak.online/public_html/afterpreview.php on line 20
+[19-Jan-2021 13:52:47 UTC] PHP Notice:  Undefined index: totalprice in /home/u674073926/domains/burgerak.online/public_html/afterpreview.php on line 20
+[19-Jan-2021 13:52:47 UTC] PHP Notice:  Undefined index: fullname in /home/u674073926/domains/burgerak.online/public_html/afterpreview.php on line 23
+[19-Jan-2021 13:52:47 UTC] PHP Notice:  Undefined index: email in /home/u674073926/domains/burgerak.online/public_html/afterpreview.php on line 23
+[19-Jan-2021 13:52:47 UTC] PHP Notice:  Undefined index: phoneno in /home/u674073926/domains/burgerak.online/public_html/afterpreview.php on line 23
+[19-Jan-2021 13:53:49 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/u674073926/domains/burgerak.online/public_html/fpdf.php:1017) in /home/u674073926/domains/burgerak.online/public_html/fpdf.php:271
+Stack trace:
+#0 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/u674073926/domains/burgerak.online/public_html/outputPDF.php(205): FPDF->Output()
+#3 {main}
+  thrown in /home/u674073926/domains/burgerak.online/public_html/fpdf.php on line 271
+[19-Jan-2021 13:53:51 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/u674073926/domains/burgerak.online/public_html/fpdf.php:1017) in /home/u674073926/domains/burgerak.online/public_html/fpdf.php:271
+Stack trace:
+#0 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/u674073926/domains/burgerak.online/public_html/outputPDF.php(205): FPDF->Output()
+#3 {main}
+  thrown in /home/u674073926/domains/burgerak.online/public_html/fpdf.php on line 271
+[19-Jan-2021 14:00:00 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/u674073926/domains/burgerak.online/public_html/fpdf.php:1017) in /home/u674073926/domains/burgerak.online/public_html/fpdf.php:271
+Stack trace:
+#0 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/u674073926/domains/burgerak.online/public_html/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/u674073926/domains/burgerak.online/public_html/outputPDF.php(205): FPDF->Output()
+#3 {main}
+  thrown in /home/u674073926/domains/burgerak.online/public_html/fpdf.php on line 271
+[19-Jan-2021 14:13:32 UTC] PHP Notice:  Undefined index: userlogged in /home/u674073926/domains/burgerak.online/public_html/vieworder.php on line 7
